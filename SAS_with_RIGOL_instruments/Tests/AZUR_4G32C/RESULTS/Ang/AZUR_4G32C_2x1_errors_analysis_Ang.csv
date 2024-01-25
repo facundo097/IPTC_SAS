@@ -1,0 +1,6 @@
+Parameter,Average Relative Percent Error (%),Maximum Relative Percent Error (%)
+Voltage,0.239,0.502
+Current,0.46,1.795
+Power,0.498,1.909
+Resistance,0.59,1.711
+MAPE (%),0.447
