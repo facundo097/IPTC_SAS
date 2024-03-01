@@ -1,0 +1,8 @@
+IPTC-SAS-01	Assembly
+IPTC-SAS-02	Front Panel
+IPTC-SAS-03	Rear Panel
+IPTC-SAS-04	Lateral Panel
+IPTC-SAS-05	Bottom Panel
+IPTC-SAS-06	Top Panel
+IPTC-SAS-07	Dust Filter Assembly
+IPTC-SAS-08	Spacer Ring
