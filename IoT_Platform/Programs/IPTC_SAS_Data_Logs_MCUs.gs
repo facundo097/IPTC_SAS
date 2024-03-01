@@ -10,7 +10,7 @@ function doGet(e) {
     var rowData = [];
     d=new Date();
     rowData[0] = d; // Timestamp in column A
-    rowData[1] = d.toLocaleTimeString(); // Timestamp in column B
+    rowData[1] = d.toLocaleTimeString(); // Timestamp in column A
     
     for (var param in e.parameter) {
       Logger.log('In for loop, param=' + param);
